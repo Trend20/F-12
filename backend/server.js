@@ -11,6 +11,9 @@ require('dotenv').config();
 const url = process.env.DATABASE_URL;
 mongoose.connect(url)
 const connection = mongoose.connection;
+connection.once('open', () =>{
+  console.log('Application connected to the DB!!');
+})
 
 app.use(cors());
 app.use('/user', userRoute);
