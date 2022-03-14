@@ -17,6 +17,10 @@ function Hero() {
           <button>Contact Us</button>
         </div>
       </div>
+
+      <div className="hero-image">
+        <img src="/img/home.png" alt="hero-img" />
+      </div>
     </div>
   )
 }

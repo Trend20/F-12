@@ -1,0 +1,6 @@
+.hero {
+  display: flex;
+  width: 70%;
+  margin: auto;
+  padding: 20px;
+}
