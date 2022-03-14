@@ -13,8 +13,8 @@ function Hero() {
         tempor incididunt ut labore et dolore magna aliqua, magna aliqua. ipsum is simply dummy text of the printing.
         </p>
         <div className="hero-btn">
-          <button>About Us</button>
-          <button>Contact Us</button>
+          <button id='about-btn'>About Us</button>
+          <button id='contact-btn'>Contact Us</button>
         </div>
       </div>
 

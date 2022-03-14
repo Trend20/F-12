@@ -3,4 +3,30 @@
   width: 70%;
   margin: auto;
   padding: 20px;
+  margin-top: 50px;
+}
+
+.hero-text {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  width: 50%;
+  margin-top: 100px;
+}
+
+.hero-text h1 {
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.hero-text p {
+  line-height: 1.8;
+  margin-top: 30px;
+  letter-spacing: 1.2px;
+  word-spacing: 1.5px;
+}
+
+.hero-btn {
+  margin-top: 25px;
 }
