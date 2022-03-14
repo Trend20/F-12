@@ -1,6 +1,7 @@
 import React from 'react'
 import './Services.css';
 
+
 function Services() {
   return (
     <div className='services'>
@@ -12,7 +13,7 @@ function Services() {
       <div className="services-container">
 
         <div className="service">
-          <i class="flaticon-project-management"></i>
+          <i><img src="/img/project-management.png" alt="project-management" /></i>
           <h3>IT Solution</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua
@@ -21,7 +22,7 @@ function Services() {
         </div>
 
         <div className="service">
-          <i class="flaticon-project-management"></i>
+          <i><img src="/img/programming-course.png" alt="programming" /></i>
           <h3>Web Development</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua
@@ -30,7 +31,7 @@ function Services() {
         </div>
 
         <div className="service">
-          <i class="flaticon-project-management"></i>
+          <i><img src="/img/cpu.png" alt="cpu" /></i>
           <h3>Networking Services</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua
@@ -39,7 +40,7 @@ function Services() {
         </div>
 
         <div className="service">
-          <i class="flaticon-project-management"></i>
+          <i><img src="/img/settings.png" alt="settings" /></i>
           <h3>SEO Optimization</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua
@@ -48,7 +49,7 @@ function Services() {
         </div>
 
         <div className="service">
-          <i class="flaticon-project-management"></i>
+          <i><img src="/img/app-development.png" alt="app-dev" /></i>
           <h3>App Optimization</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua
@@ -57,7 +58,7 @@ function Services() {
         </div>
 
         <div className="service">
-          <i class="flaticon-project-management"></i>
+          <i><img src="/img/cloud-data.png" alt="cloud" /></i>
           <h3>Data Recovery</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua
