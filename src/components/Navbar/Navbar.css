@@ -11,6 +11,7 @@
   width: 20%;
   justify-content: center;
   cursor: pointer;
+  color: #fff;
 }
 
 .navbar nav {
@@ -28,11 +29,12 @@
 
 .navbar nav ul li {
   list-style: none;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .navbar nav ul li a {
   text-decoration: none;
+  color: #fff;
 }
 
 .get-started {
@@ -46,12 +48,12 @@
   outline: none;
   border: none;
   border-radius: 3px;
-  background: rgb(116, 80, 233);
-  color: #fff;
+  color: rgb(97, 18, 243);
   font-weight: 700;
   width: 100%;
 }
 
 .get-started button:hover {
-  background: rgb(87, 32, 240);
+  background: rgb(116, 80, 233);
+  color: #fff;
 }

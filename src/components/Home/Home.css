@@ -1,0 +1,4 @@
+.home {
+  background: linear-gradient(rgb(49, 7, 233) 10%, rgb(116, 80, 233) 90%);
+  min-height: 100vh;
+}
