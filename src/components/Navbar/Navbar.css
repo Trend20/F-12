@@ -48,12 +48,12 @@
   outline: none;
   border: none;
   border-radius: 3px;
-  background: rgb(116, 80, 233);
-  color: #fff;
+  color: rgb(97, 18, 243);
   font-weight: 700;
   width: 100%;
 }
 
 .get-started button:hover {
-  background: rgb(49, 7, 233);
+  background: rgb(116, 80, 233);
+  color: #fff;
 }
